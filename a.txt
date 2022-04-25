@@ -1,7 +1,7 @@
-I: mi
-you: nu
-it: a
-this: ma
-that: time
-many: yunto
-few: kika
+I: ma
+you: se
+it: o
+this: no
+that: tu
+many: nemu
+few: nakin
