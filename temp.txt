@@ -1,0 +1,4 @@
+C: ptkmnswry, V: aeiou
+[C,C,(C)]V((n)) / [C,C,(C)]V((n))CV((n)) / [C,C,(C)]V((n))CV((n))CV((n))
+yi: ye, wu: wo
+I: 0, you: 0, it: 0, this: 0/1, that: 0/1, many: 0/1/1/1, few: 0/1/1,
