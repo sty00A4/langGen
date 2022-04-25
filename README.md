@@ -1,0 +1,2 @@
+# langGen
+language word generator
