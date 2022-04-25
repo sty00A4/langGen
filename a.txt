@@ -1,7 +1,10 @@
-I: ma
-you: se
-it: o
-this: no
-that: tu
-many: nemu
-few: nakin
+I: wo
+you: wa
+it: ku
+this: ke
+that: na
+many: mun
+few: yoye
+thing: ma
+person: nentu
+tool: mensu
